@@ -24,4 +24,23 @@ here!👋
 <a href="https://www.instagram.com/unsuredev" class="btn-social btn-outline" title="Instagram"><img align="left" alt="Sabesan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> 
 </a>
        
+<br><br/>
+
+## 📝 Latest Blog Posts
+
+These are my latest posts on  [Dev.to](https://dev.to/unsuredev):
+### Dev Community
+       
+<a href="https://dev.to/unsuredev/20-tips-for-angular-performance-2j1d">20 tips for Angular performance(Part 1)
+       
+</a>
+<a href="https://dev.to/unsuredev/angular-performance-part-2-27ed">Angular performance part 2
+</a>
+       
+<a href="https://dev.to/unsuredev/what-are-the-integrity-and-crossorigin-attributes-like-in-bootstrap-26g5">What are the integrity and crossorigin attributes?
+</a>
+<a href="https://dev.to/unsuredev/add-me-to-search-google-launches-virtual-business-cards-gg3">Add Me to Search: Google Launches Virtual Business Cards
+</a>
+
+
 
