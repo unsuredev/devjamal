@@ -1,4 +1,4 @@
-### Namaste! Jamal 
+### Namaste!  
 here!👋
 
 - 🔭 I’m currently working on JavaScript 
